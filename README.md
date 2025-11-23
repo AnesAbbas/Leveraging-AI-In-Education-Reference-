@@ -91,7 +91,7 @@ Unlock more of the power of AI via the devlopement of advanced custom tool and c
 
 > "Imagineering is letting your imagination soar, and then engineering it down to earth," was a central slogan in a 1940s advertising campaign by the Aluminum Company of America (Alcoa).
 
-## Oath and Commandments
+## The AI Educator’s Commandments
 
 - Thou shall avoid negative learning
 - Thou shall avoid using AI just for hype
@@ -100,9 +100,9 @@ Unlock more of the power of AI via the devlopement of advanced custom tool and c
 - Thou shall not teach someone without sharing the commandments
 - Thou shall re-visit these frequently 
 
-## Let kids be kids
+## Let Kids Be Kids
 
-Kid need to be free, and have a free space to:
+Kids need to be free, and have a free space to:
 
 * Explore
 * Invent
